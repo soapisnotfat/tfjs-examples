@@ -358,18 +358,18 @@ is-fullwidth-code-point@^3.0.0:
   resolved "https://registry.yarnpkg.com/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz#f116f8064fe90b3f7844a38997c0b75051269f1d"
   integrity sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==
 
-jasmine-core@~3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-3.10.0.tgz#1e3e4053d954eb6d0bfbb3eb859bb21a5655de45"
-  integrity sha512-XWGaJ25RUdOQnjGiLoQa9QG/R4u1e9Bk4uhLdn9F4JCBco84L4SKM52bxci4vWTSUzhmhuHNAkAHFN/6Cox9wQ==
+jasmine-core@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-4.2.0.tgz#0605bea284d6d78276f43c47de2532ecd4a73b00"
+  integrity sha512-OcFpBrIhnbmb9wfI8cqPSJ50pv3Wg4/NSgoZIqHzIwO/2a9qivJWzv8hUvaREIMYYJBas6AvfXATFdVuzzCqVw==
 
-jasmine@~3.10.0:
-  version "3.10.0"
-  resolved "https://registry.yarnpkg.com/jasmine/-/jasmine-3.10.0.tgz#acd3cd560a9d20d8fdad6bd2dd05867d188503f3"
-  integrity sha512-2Y42VsC+3CQCTzTwJezOvji4qLORmKIE0kwowWC+934Krn6ZXNQYljiwK5st9V3PVx96BSiDYXSB60VVah3IlQ==
+jasmine@~4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/jasmine/-/jasmine-4.2.0.tgz#a5e9e2af25813da3517f5dafa9e46b2d896d996a"
+  integrity sha512-6SQRXHs5O++mp52PkoJoi9zuLYqp1IaqepRNmAQn5rUBo9VUnckpkkXQQD5PAuCCVVB1ULDImvWYCPV/ZVnaGQ==
   dependencies:
     glob "^7.1.6"
-    jasmine-core "~3.10.0"
+    jasmine-core "^4.2.0"
 
 js-tokens@^4.0.0:
   version "4.0.0"
